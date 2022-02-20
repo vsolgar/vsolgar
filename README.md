@@ -3,7 +3,7 @@ https://img.shields.io/
 Me deje hacerlo y tenga algo relevante que mostrar, de momento...
 
 APRENDIENDO
-![Testeando](https://img.shields.io/static/v1?label=Un poco de &message=Algo&color=orange)</br>
+![Testeando](https://img.shields.io/static/v1?label=Un_poco_de&message=Algo&color=orange)</br>
 
 <!--
 **vsolgar/vsolgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

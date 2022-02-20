@@ -1,4 +1,9 @@
-https://img.shields.io/badge/insistencia-trying-green
+Descubrienco como modificar y mejorar el profile, siempre y cuando
+https://img.shields.io/
+Me deje hacerlo y tenga algo relevante que mostrar, de momento...
+
+APRENDIENDO
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <!--
 **vsolgar/vsolgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
